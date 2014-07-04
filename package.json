@@ -1,0 +1,24 @@
+{
+  "name": "pollen",
+  "version": "0.0.1",
+  "description": "Fetches pollen forecast for given lat/long",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:omgmog/pollen.git"
+  },
+  "keywords": [
+    "pollen",
+    "forecast",
+    "weather"
+  ],
+  "author": "Max Glenister",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/omgmog/pollen/issues"
+  },
+  "homepage": "https://github.com/omgmog/pollen"
+}
