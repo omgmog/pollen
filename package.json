@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/omgmog/pollen/issues"
   },
-  "homepage": "https://github.com/omgmog/pollen"
+  "homepage": "https://github.com/omgmog/pollen",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
 }
